@@ -1,15 +1,14 @@
-h1 { /* THIS IS A COMMENT */
-    color: rgb(22, 22, 21);
-    
-    text-align: center;
-    
-       }
+h1 {
+  /* THIS IS A COMMENT */
+  color: rgb(22, 22, 21);
 
-#subtitle{
-    color: blue;
-    background-color: coral;
-    text-align: center;
+  text-align: center;
+}
 
+ {
+  color: blue;
+  background-color: coral;
+  text-align: center;
 }
 /* id can only be used 1 x page */
 /*same attributes to multiple HTML elements = use class */

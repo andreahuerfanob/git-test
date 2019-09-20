@@ -1,0 +1,37 @@
+h1 {
+  /* THIS IS A COMMENT */
+  color: black;
+  font-size: 80pt;
+  text-align: center;
+  font-family: "Bungee Shade", cursive;
+  margin-top: 10px;
+}
+
+.centerimages {
+  text-align: center;
+  display: block;
+}
+
+.welcome {
+  font-size: 25pt;
+  text-align: center;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.menu {
+  width: 15%;
+}
+.portfolio {
+  width: 85%;
+}
+
+.item img {
+  float: left;
+}
+.item span {
+  display: table-cell;
+  vertical-align: middle;
+  height: 240px;
+}
